@@ -1,6 +1,6 @@
 channel 时 go 语言中 goroutine 的调度器，可以调度 goroutine之间的使用。如下图所示：
 
-![channel调度器图](/Users/superwang/git/LearnForGo/channel调度器图.png)
+![channel调度器图](https://raw.githubusercontent.com/HalaMadridCR7/LearnForGo/master/协程.png)
 
 channel的定义如下：
 
